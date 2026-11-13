@@ -96,14 +96,6 @@ Posters-logos/
 └── CREDITS.md           photographers and licences
 ```
 
-## Credits
-
-**Concept, typography, layout and identity design:** Guru Charan.
-
-All events, artists, venues, dates and prices are **fictional**, and the brands are concept brands made for this portfolio.
-
-The poster and logo-presentation photography is free-licence stock found through [Openverse](https://openverse.org) (CC BY 2.0), then cropped, tinted, darkened or blurred and designed over. Every photographer is credited in **[CREDITS.md](CREDITS.md)**. The SVG logos use no photography.
-
 <div align="center">
 <br>
 
