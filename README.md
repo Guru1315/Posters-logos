@@ -93,7 +93,6 @@ Posters-logos/
 │   ├── svg/             4 vector logos
 │   └── on-photo/        4 logo presentations on photography
 ├── assets/              README banner, poster wall and logo sheet
-└── CREDITS.md           photographers and licences
 ```
 
 <div align="center">
